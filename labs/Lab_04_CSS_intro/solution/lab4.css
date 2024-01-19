@@ -11,7 +11,7 @@ h1, h2, h3 {
 }
 
 div {
-  background-image: url('/solution/imgs/w1.png');
+  background-image: url('/imgs/w1.png');
   background-size: cover;
   width: 500px;
   height: 500px;
